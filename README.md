@@ -1,4 +1,4 @@
-# LeagueOfLegendsBlueRedAnalysis
+# Predicting winning teams of League of Legends Games
 
 The objective of this League of Legends (LoL) project is to predict the aspects of game plays that influence the winning teams (red or blue) in the game. League of Legends is the most competitive and dominant Multiplayer online battle arena (MOBA) game in the world and as the level of pro players are increased and set to high-quality equalized, importance of data analytics had risen in pro-level tournaments from recent few years.
 
